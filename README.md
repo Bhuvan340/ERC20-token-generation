@@ -30,7 +30,8 @@ Decimals: Define how divisible your token will be (typically 18 decimals for ERC
 Total Supply: Set the maximum number of tokens to be created.
 Deploy Smart Contract: Once the token's rules and attributes are defined, the next step is to deploy the smart contract on the Ethereum network. This contract will store the total supply of tokens, track balances, and govern how transfers occur.
 
-## Minting Tokens: Token minting refers to creating the tokens based on the total supply defined in the smart contract. This happens when the contract is deployed. Minted tokens are typically allocated to the wallet that deployed the contract, but the tokens can later be distributed to others.
+## Minting Tokens: 
+Token minting refers to creating the tokens based on the total supply defined in the smart contract. This happens when the contract is deployed. Minted tokens are typically allocated to the wallet that deployed the contract, but the tokens can later be distributed to others.
 
 ## Token Distribution: After minting, tokens can be distributed to users through various methods such as:
 
